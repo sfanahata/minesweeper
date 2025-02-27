@@ -1,3 +1,10 @@
+<script
+  src="https://js.sentry-cdn.com/fd3e8df59cc937d7d2a3dae5913776b5.min.js"
+  crossorigin="anonymous"
+></script>
+
+myUndefinedFunction();
+
 const GRID_SIZE = 8
 const MINE_COUNT = 10
 
